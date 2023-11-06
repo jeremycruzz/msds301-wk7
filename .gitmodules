@@ -1,0 +1,3 @@
+[submodule "jump-start-mnist-iforest"]
+	path = jump-start-mnist-iforest
+	url = https://github.com/ThomasWMiller/jump-start-mnist-iforest
